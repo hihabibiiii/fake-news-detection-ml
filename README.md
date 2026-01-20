@@ -1,7 +1,8 @@
 # Fake News Detection System
 
 This project detects fake and real news articles using NLP and Machine Learning.
-
+## 🚀 Live Demo
+👉 https://fake-news-detection-ml-c28wbsjc2bm53rnnshpbze.streamlit.app/
 ## Tech Stack
 - Python
 - Scikit-learn
