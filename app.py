@@ -5,7 +5,7 @@ import streamlit as st # type: ignore
 
 # Load saved files
 model = pickle.load(open("fake_news_model.pkl", "rb"))
-tfidf = pickle.load(open("tfidf_vectorizer.pkl", "rb"))
+tfidf = pickle.load(open("Tfidf_vectorizer.pkl", "rb"))
 
 def clean_text(text):
     text = text.lower()
